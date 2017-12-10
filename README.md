@@ -1,6 +1,6 @@
 # bose-soundtouch-controller-php
 taken from http://www.nikolaus-lueneburg.de/2017/01/bose-soundtouch-php-gateway-teil-1/
-
+see also http://www.nikolaus-lueneburg.de/2017/02/bose-soundtouch-php-gateway-teil-2/
 
 <html>
 <head>
